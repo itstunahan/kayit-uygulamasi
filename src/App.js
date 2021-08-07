@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <AddUser />
-      <UsersList users={[]} />
+      <UsersList />
     </div>
   );
 };
